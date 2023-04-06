@@ -4,6 +4,7 @@
 #include <iostream>
 using namespace std;
 
+// from notes: Bit Magic
 int setBits(int n)
 {
     // Write Your Code here
